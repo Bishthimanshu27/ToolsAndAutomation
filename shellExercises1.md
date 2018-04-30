@@ -81,21 +81,3 @@ Remember when you put quotes around a directory with spaces in it? You can do th
 14. Delete the whole `~/shellExercise/files` directory.
 
 15. Setup an alias in your configuration file (in Git Bash it's called .minttyrc) for my favorite command `ll` which should be aliased to `ls -la`
-
-## Finally
-
-Work with a partner. Find 1 new command to teach to the class tomorrow. You will need to demonstrate and clearly explain how it works.
-
-Some commands you may want to look at are:
-`more`
-`clear`
-`tail`
-`cp`
-`!!`
-`diff`
-`history`
-`awk`
-`ping`
-
-
-
