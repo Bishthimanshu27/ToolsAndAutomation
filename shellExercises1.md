@@ -12,7 +12,7 @@ mkdir temp/stuff/things
 ```
 mkdir -p temp/stuff/things/fran/jo/alice/jane
 ```
-What do you think the flag `p` mean? Try creating the the following directory without the `p` flag.
+What do you think the option `p` mean? Try creating the the following directory without the `p` option.
 
 ```
 mkdir temp/test/temp
@@ -30,7 +30,7 @@ ls -lR temp
 
 Explain what the flags `l` and `R` do?
 
-Did you know you can chain flags together?
+Did you know you can chain options together?
 
 ## Changing Directories
 
@@ -68,4 +68,12 @@ Remember when you put quotes around a directory with spaces in it? You can do th
 
 10. Open the `~/shellExercise` directory in explorer by using the `explorer .` command. 
 
-11. Copy down this 
+11. Download and save this `html` file to the `~/shellExercise` directory.
+
+12. Create a new sub-directory called `files` and move the HTML file you just saved there.
+
+11. Print the contents of that file out to the console.
+
+12.
+
+13. Now delete the that directory
