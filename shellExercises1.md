@@ -68,12 +68,34 @@ Remember when you put quotes around a directory with spaces in it? You can do th
 
 10. Open the `~/shellExercise` directory in explorer by using the `explorer .` command. 
 
-11. Download and save this `html` file to the `~/shellExercise` directory.
+11. Download and save this `https://github.com/jniziol/ToolsAndAutomation/blob/master/shellExercises1.md` file to the `~/shellExercise` directory.
 
 12. Create a new sub-directory called `files` and move the HTML file you just saved there.
 
-11. Print the contents of that file out to the console.
+11. Print the contents of the whole that file out to the terminal.
 
-12.
+12. Print out the contents of the file, in a paginated manner.
 
-13. Now delete the that directory
+13. Search the file for this string 'Create a' in the file you downloaded.
+
+14. Delete the whole `~/shellExercise/files` directory.
+
+15. Setup an alias in your configuration file (in Git Bash it's called .minttyrc) for my favorite command `ll` which should be aliased to `ls -la`
+
+## Finally
+
+Work with a partner. Find 1 new command to teach to the class tomorrow. You will need to demonstrate and clearly explain how it works.
+
+Some commands you may want to look at are:
+`more`
+`clear`
+`tail`
+`cp`
+`!!`
+`diff`
+`history`
+`awk`
+`ping`
+
+
+
