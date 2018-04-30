@@ -66,3 +66,6 @@ Remember when you put quotes around a directory with spaces in it? You can do th
 
 9. Move the `styles.css` file into the `css` directory and the `main.js` file into the `js` directory
 
+10. Open the `~/shellExercise` directory in explorer by using the `explorer .` command. 
+
+11. Copy down this 
