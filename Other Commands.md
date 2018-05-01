@@ -10,6 +10,9 @@ Some commands you may want to look at are:
 `history`
 `awk`
 `ping`
+`touch`
+`ps`
+`ifconfig`
 
 
 
