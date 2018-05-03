@@ -10,3 +10,5 @@
 ## Git
 
 [Githubs Git Tutorial](https://try.github.io/levels/1/challenges/1)
+
+[The Git Config](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
