@@ -6,6 +6,10 @@
 
 [Other Shell Commands](https://github.com/jniziol/ToolsAndAutomation/blob/master/Other%20Commands.md)
 
+[Command Line Cheat Sheet](https://www.git-tower.com/blog/content/posts/32-command-line-cheat-sheet/command-line-cheat-sheet-large01.png)
+
+[Command Line Tips](https://www.git-tower.com/blog/content/posts/32-command-line-cheat-sheet/command-line-cheat-sheet-large02.png)
+
 
 ## Git
 
