@@ -4,6 +4,8 @@
 
 [Shell Exercises 1](https://github.com/jniziol/ToolsAndAutomation/blob/master/shellExercises1.md)
 
+[Shell Quiz 1 Solution](https://github.com/jniziol/ToolsAndAutomation/blob/master/BashQuiz1Soln.md)
+
 [Other Shell Commands](https://github.com/jniziol/ToolsAndAutomation/blob/master/Other%20Commands.md)
 
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/content/posts/32-command-line-cheat-sheet/command-line-cheat-sheet-large01.png)
