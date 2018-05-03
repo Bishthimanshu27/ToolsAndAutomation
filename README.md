@@ -17,6 +17,8 @@
 
 [How to Write a Good Commit Message](https://medium.com/@preslavrachev/what-s-with-the-50-72-rule-8a906f61f09c)
 
+[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ## JS Libraries
 
 [Typing JS](https://mattboldt.com/demos/typed-js/)
