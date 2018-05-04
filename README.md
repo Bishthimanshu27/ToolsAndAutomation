@@ -25,6 +25,8 @@
 
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+[Git Quiz](https://github.com/jniziol/ToolsAndAutomation/blob/master/GitQuiz.md)
+
 ### Git Branching
 
 [Using Git Branches](https://www.atlassian.com/git/tutorials/using-branches)
