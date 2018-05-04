@@ -6,7 +6,7 @@ The final submission be a `.zip` file that includes only your `.txt` files.
 
 The `.zip` file should contain your first and last name.
 
-You have 45 minutes to complete all the tasks.
+You have 1.5 hours to complete all the tasks.
 
 The `.zip` file containing your submission should be uploaded to the [Dropbox Folder](https://www.dropbox.com/request/Ev31ktTjgSLF6i9AoYh1)
 
@@ -30,7 +30,7 @@ The `.zip` file containing your submission should be uploaded to the [Dropbox Fo
 Clearly indicate your answers for questions 1, 2, 3, 5, 7, and 13 in your quiz submission file.
 
 1. Clone the Udacity project from https://github.com/udacity/course-git-blog-project, but clone it to a directory using a different name. Any other name will do. What was the command you used to do this? (2 points)
-2. Find the commit with the SHA that begins with `70f635`, and tell me what the commit message it? (3 points)
+2. Find the commit with the SHA that begins with `70f635`, and tell me what the commit message is? (3 points)
 3. What are the two files that changed in the commit thats starts with the SHA `cdce4f`? (3 points)
 4. Add and commit a new file to the project called `myAddition.html`. (1 point)
 5. What are the first 6 characters of the SHA for the commit you just added? (2 points)
