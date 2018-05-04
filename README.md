@@ -25,6 +25,14 @@
 
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+### Git Branching
+
+[Using Git Branches](https://www.atlassian.com/git/tutorials/using-branches)
+
+[Git Branching Practice](https://try.github.io/levels/1/challenges/20)
+
+[More Git Branching Practice](https://learngitbranching.js.org/)
+
 ## JS Libraries
 
 [Typing JS](https://mattboldt.com/demos/typed-js/)
