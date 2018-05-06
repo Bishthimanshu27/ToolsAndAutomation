@@ -19,13 +19,13 @@
 
 [The Git Config](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
-[Centralized Version Control vs. Distributed Version Control](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
-
 [How to Write a Good Commit Message](https://medium.com/@preslavrachev/what-s-with-the-50-72-rule-8a906f61f09c)
 
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 [Git Quiz](https://github.com/jniziol/ToolsAndAutomation/blob/master/GitQuiz.md)
+
+[A Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 
 ### Git Branching
 
