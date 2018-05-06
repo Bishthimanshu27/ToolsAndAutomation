@@ -35,6 +35,8 @@
 
 [More Git Branching Practice](https://learngitbranching.js.org/)
 
+[Branching, Merging and Tagging Exercise](https://github.com/jniziol/ToolsAndAutomation/blob/master/branchingExercise.md)
+
 ## JS Libraries
 
 [Typing JS](https://mattboldt.com/demos/typed-js/)
