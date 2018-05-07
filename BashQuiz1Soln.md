@@ -44,7 +44,7 @@ Answer: `pwd`
 
 10. WHich command is used to output the contents of a file to the terminal?
 
-Answer: `echo`
+Answer: `cat`
 
 ## Multiple Choice /5
 
