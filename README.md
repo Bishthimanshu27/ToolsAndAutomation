@@ -37,6 +37,10 @@
 
 [Branching, Merging and Tagging Exercise](https://github.com/jniziol/ToolsAndAutomation/blob/master/branchingExercise.md)
 
+## Git Push, Pull, Remotes
+
+[Git Push, Pull Exercise](https://github.com/jniziol/ToolsAndAutomation/blob/master/GitPushExercise.md)
+
 ## JS Libraries
 
 [Typing JS](https://mattboldt.com/demos/typed-js/)
