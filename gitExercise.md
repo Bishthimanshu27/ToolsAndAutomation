@@ -11,7 +11,7 @@ Your goal is to complete all the steps below and do your best to solve any issue
 4. In the `css` directory, create a new file called `styles.css` and in the `js` directory, create a file called `main.js`
 5. Initialize this directory as a new Git repository
 6. Add all these new files and directories to the staging index and commit these files with a thoughtful commit message.
-7. Create a new directory called `log`
+7. Create a new sub-directory called `log`
 8. Add a `.gitignore` file that ignore all files in the `log` directory that end with `.log`.
 9. Commit both the `.gitignore` file and the `log` directory. (Remember empty directories cannot be committed)
 10. Set this repository to use to Github repository as a remote.
