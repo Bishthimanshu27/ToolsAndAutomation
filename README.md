@@ -27,6 +27,8 @@
 
 [A Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 
+[Git Exercise](https://github.com/jniziol/ToolsAndAutomation/blob/master/gitExercise.md)
+
 ### Git Branching
 
 [Using Git Branches](https://www.atlassian.com/git/tutorials/using-branches)
