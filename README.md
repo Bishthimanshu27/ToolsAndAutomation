@@ -43,6 +43,14 @@
 
 [Git Push, Pull Exercise](https://github.com/jniziol/ToolsAndAutomation/blob/master/GitPushExercise.md)
 
+## Build Tools
+
+(Installing Node.js and NPM)(http://blog.teamtreehouse.com/install-node-js-npm-windows)
+
+[Installing Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+
+[Why build Tools](https://www.youtube.com/watch?v=XJ5F-Auhato)
+
 ## JS Libraries
 
 [Typing JS](https://mattboldt.com/demos/typed-js/)
